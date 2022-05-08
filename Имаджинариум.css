@@ -1,0 +1,86 @@
+.u-block-7f76-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-7f76-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-7f76-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/2.jpg");
+  background-position: 50% 50%;
+  background-size: auto 170%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 823px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 343px 150px 0 226px;
+}
+
+.u-section-1-1 .u-text-2 {
+  margin: 93px 56px 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 40px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 126px;
+    margin-right: 50px;
+    width: 448px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 340px;
+  }
+}
